@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ApplicationManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>MayMeow.AppStore.Toolkit.exe</Id>
+  <PathToDownload>https://maymeow.b-cdn.net/toolkit/MayMeow.AppStore.Toolkit.exe</PathToDownload>
+  <Signature>2gOShXjWs2y4wuMlNWRcmgacr29KThzyfc9YF+dapHE0JckpESXaQMedkjE/R4LJHnfluveQmftfjE4YgYrgpw==</Signature>
+  <Hash>9C3BE404225EDB7BF02948C09BD84A5D3B8EF79B0386E30E0FD129082FDFACFD</Hash>
+</ApplicationManifest>
